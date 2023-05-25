@@ -1,16 +1,24 @@
-### Hi there 👋
+<span align="center">
 
-<!--
-**dani3l0/dani3l0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Quick intro -->
+  <h2>👋 Hi, I'm Daniel</h2>
 
-Here are some ideas to get you started:
+  🤦‍♂️ Software developer&ensp;•&ensp;👨‍💻 Sysadmin&ensp;•&ensp;👷‍♂️ Computer Builder
+  
+  **📝&ensp;Please check out my [portfolio](https://dani3l0.github.io)!**<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+  <!-- GitHub Stats -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dani3l0&theme=dracula)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dani3l0&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dani3l0&theme=dracula)
+  
+  
+  
+  <!-- Visitor count -->
+  <br>Visitors<br><br>
+  <img src="https://profile-counter.glitch.me/dani3l0/count.svg">
+
+</span>
