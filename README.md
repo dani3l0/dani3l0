@@ -10,10 +10,10 @@
   
   
   <!-- GitHub Stats -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dani3l0&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dani3l0&theme=aura_dark)
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dani3l0&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dani3l0&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dani3l0&theme=aura_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dani3l0&theme=aura_dark)
   
   
   
