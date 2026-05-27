@@ -167,7 +167,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="24" alt="vscode logo"  />
 </div>
 
-<br>
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dani3l0/dani3l0/pacman-output/breakout-contribution-graph-dark.svg">
