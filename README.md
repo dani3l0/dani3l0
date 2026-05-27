@@ -18,7 +18,7 @@
 
 
 <!-- What I do -->
-<h2>What I do</h2>
+<h2>🤔 What I do</h2>
 
 <b>👷‍♂️</b> Building awesome rigs
 
@@ -167,6 +167,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="24" alt="vscode logo"  />
 </div>
 
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dani3l0/dani3l0/pacman-output/breakout-contribution-graph-dark.svg">
