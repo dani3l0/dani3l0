@@ -17,7 +17,7 @@
 </a>
 <a href="https://x.com/dani3l0_xd" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-</div>
+</a>
 
 
 <!-- What I do -->
